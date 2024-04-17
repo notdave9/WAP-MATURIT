@@ -1,0 +1,26 @@
+ondra
+----
+name - text
+sila - numbers
+rychlost - numbers
+
+
+pawlis
+----
+name - text
+nalada - text
+iq - numbers
+
+
+david
+----
+name - text
+iq - numbers
+vek - numbers
+
+
+schejbal
+----
+name - text
+pohlavi - text
+ucitel - text 
